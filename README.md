@@ -1,4 +1,4 @@
-# Hi, I'm Shiqi Chang 👋
+# Hi, I'm Shiqi Chang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shiqichang.shqichang)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
