@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/shiqichang/shiqichang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqichang&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Shiqi Chang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqichang&layout=compact" alt="Shiqi Chang's GitHub Stats" />
 </a>
 
 <a href="https://github.com/shiqichang/shiqichang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiqichang&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Shiqi Chang's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiqichang&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Shiqi Chang's GitHub Stats" />
 </a>
