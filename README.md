@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Python Web development.
-- 🌱 I’m currently learning and sharing on [Shiqi Chang'Blog](https://s7.zzs7.top), welcome ~
+- 💼 Senior Back End Engineer at DiDi.
+- 🌱 Currently learning and sharing on [Shiqi Chang'Blog](https://s7.zzs7.top), welcome ~
 
 ## &#x1f4c8; GitHub Stats
 
